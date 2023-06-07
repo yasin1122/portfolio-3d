@@ -47,7 +47,7 @@ const Navbar = () => {
           />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Yasin &nbsp;
-            <span className='sm:block hidden'> | JavaScript Mastery</span>
+            <span className='sm:block hidden'> | Full Stack Developer</span>
           </p>
         </Link>
 
