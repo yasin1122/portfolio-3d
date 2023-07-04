@@ -26,9 +26,12 @@ import amazon from './company/amazon.png'
 import freelancer from './company/freelancer.png'
 import coc from './company/code-logo.png'
 
-import carrent from './carrent.png'
-import jobit from './jobit.png'
-import tripguide from './tripguide.png'
+import budget from './budget-app.jpeg'
+import sushi from './sushi-site.jpeg'
+import speech from './speech-text-reader.jpeg'
+import twitter from './twitter-clone.jpeg'
+import exchange from './exchange-rate-calculator.jpeg'
+import dark from './dark-mode-clock.jpeg'
 
 export {
   logo,
@@ -56,7 +59,10 @@ export {
   amazon,
   freelancer,
   coc,
-  carrent,
-  jobit,
-  tripguide,
+  budget,
+  sushi,
+  dark,
+  speech,
+  twitter,
+  exchange,
 }
