@@ -125,10 +125,10 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'May 2017 - April 2020',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Developed and maintained web applications using JavaScript, React and other related technologies.',
+      'Collaborated with clients and other developers to create high-quality products.',
+      'Implemented responsive design and ensuring cross-browser compatibility.',
+      'Offered consultation to clients to plan the best approach to bring their vision to life.',
     ],
   },
   {
@@ -138,10 +138,10 @@ const experiences = [
     iconBg: '#383E56',
     date: 'April 2020 - Present',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Designed an eLearning platform for software engineering students around the world.',
+      'Implemented Google Adsense, Google Analytics, along with JetPack for website security and backups.',
+      'Implemented accessibility features along with best SEO practices to create a responsive site.',
+      'Used CDNs and minimized client side JavaScript to achieve a fast page speed score.',
     ],
   },
   {
@@ -151,10 +151,8 @@ const experiences = [
     iconBg: '#E6DEDD',
     date: 'Jan 2022 - Feb 2023',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Wrote and published 15 beginner friendly textbooks on Amazon on various programming topics.',
+      'All of my textbooks have a 5 star rating on both Kindle and Amazon Book Store.',
     ],
   },
   {
@@ -164,10 +162,10 @@ const experiences = [
     iconBg: '#383E56',
     date: 'Dec 2009 - Present',
     points: [
-      'Developing and maintaining web applications using React.js and other related technologies.',
-      'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
-      'Implementing responsive design and ensuring cross-browser compatibility.',
-      'Participating in code reviews and providing constructive feedback to other developers.',
+      'Designed, published and updated the restaurant menu yearly.',
+      'Managed social media accounts and handled seasonal hiring.',
+      'Filed taxes and other legal paperwork.',
+      'Managed work schedules, processed payroll and ordered supplies.',
     ],
   },
 ]

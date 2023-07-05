@@ -40,11 +40,11 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-        As a skilled software developer, I specialize in JavaScript and
-        TypeScript, utilizing frameworks such as React, Node.js, and Three.js.
-        With a strong ability to learn rapidly, I closely collaborate with
-        clients to develop efficient, scalable, and user-friendly solutions that
-        effectively address real-world challenges. Let's join forces to
+        As a full stack developer, I specialize in using the MERN stack
+        (MongoDB, Express, React & Node) to build web applications. With a
+        strong ability to learn rapidly, I closely collaborate with clients and
+        colleagues to develop efficient, scalable, and user-friendly solutions
+        that effectively address real-world challenges. Let's join forces to
         transform your ideas into reality and make an impact together!
       </motion.p>
 
