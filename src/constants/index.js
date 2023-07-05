@@ -174,128 +174,128 @@ const projects = [
   {
     name: 'Budget App',
     description:
-      'Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.',
+      'A fully functional budgeting web app with a modern user interface, mobile first design and a responsive layout.',
     tags: [
       {
-        name: 'JavaScript',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'mongodb',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'tailwind',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
     image: budget,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/budget-app',
   },
   {
     name: 'Sushi Restaurant',
     description:
-      'Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.',
+      'A modern front end page for a typical sushi restaurant with a responsive design on both mobile and PC.',
     tags: [
       {
-        name: 'react',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'restapi',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'scss',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
     image: sushi,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/sushi-site',
   },
   {
     name: 'Speech Text Reader',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'This app vocalizes images and text on the screen to help people with speech impairment communicate with others.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
     image: speech,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/speech-text-reader',
   },
   {
     name: 'Twitter Clone',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'A basic Twitter clone that demonstrates the use of Login functionality along with a backend integration using MongoDB Atlas.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'TypeScript',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'MongoDB',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'Tailwind CSS',
         color: 'pink-text-gradient',
       },
     ],
     image: twitter,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/twitter-clone',
   },
   {
     name: 'Dark Mode Clock',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'Modern clock that displays the current time to demonstrate light and dark mode used in most modern sites.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
     image: dark,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/dark-mode-clock',
   },
   {
     name: 'Exchange Rate Calculator',
     description:
-      'A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.',
+      'Quickly calculate the exchange rate between any two currencies with this mobile friendly web app.',
     tags: [
       {
-        name: 'nextjs',
+        name: 'HTML',
         color: 'blue-text-gradient',
       },
       {
-        name: 'supabase',
+        name: 'CSS',
         color: 'green-text-gradient',
       },
       {
-        name: 'css',
+        name: 'JavaScript',
         color: 'pink-text-gradient',
       },
     ],
     image: exchange,
-    source_code_link: 'https://github.com/',
+    source_code_link: 'https://github.com/yasin1122/exchange-rate',
   },
 ]
 
