@@ -123,7 +123,7 @@ const experiences = [
     company_name: 'Fiverr, Upwork',
     icon: freelancer,
     iconBg: '#E6DEDD',
-    date: 'May 2017 - Present',
+    date: 'May 2017 - April 2020',
     points: [
       'Developing and maintaining web applications using React.js and other related technologies.',
       'Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.',
