@@ -170,6 +170,7 @@ const experiences = [
   },
 ]
 
+// These don't show up on mobile safari
 const projects = [
   {
     name: 'Budget App',
