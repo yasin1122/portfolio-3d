@@ -8,6 +8,7 @@ import { SectionWrapper } from '../hoc'
 import { projects } from '../constants'
 import { fadeIn, textVariant } from '../utils/motion'
 
+// Need to fix on mobile browser
 const ProjectCard = ({
   index,
   name,
