@@ -26,12 +26,12 @@ import amazon from './company/amazon.png'
 import freelancer from './company/freelancer.png'
 import coc from './company/code-logo.png'
 
-import budget from './budget-app.jpeg'
-import sushi from './sushi-site.jpeg'
-import speech from './speech-text-reader.jpeg'
-import twitter from './twitter-clone.jpeg'
-import exchange from './exchange-rate-calculator.jpeg'
-import dark from './dark-mode-clock.jpeg'
+import budget from './budget-app.png'
+import sushi from './sushi-site.png'
+import speech from './speech-text-reader.png'
+import twitter from './twitter-clone.png'
+import exchange from './exchange-rate-calculator.png'
+import dark from './dark-mode-clock.png'
 
 export {
   logo,
