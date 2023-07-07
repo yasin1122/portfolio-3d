@@ -136,7 +136,7 @@ const experiences = [
     company_name: 'Code Of Code',
     icon: coc,
     iconBg: '#383E56',
-    date: 'April 2020 - Present',
+    date: 'April 2020 - January 2022',
     points: [
       'Designed an eLearning platform for software engineering students around the world.',
       'Implemented Google Adsense, Google Analytics, along with JetPack for website security and backups.',
