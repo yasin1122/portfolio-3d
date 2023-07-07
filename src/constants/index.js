@@ -276,27 +276,27 @@ const projects = [
     image: dark,
     source_code_link: 'https://github.com/yasin1122/dark-mode-clock',
   },
-  {
-    name: 'Exchange Rate Calculator',
-    description:
-      'Quickly calculate the exchange rate between any two currencies with this mobile friendly web app.',
-    tags: [
-      {
-        name: 'HTML',
-        color: 'blue-text-gradient',
-      },
-      {
-        name: 'CSS',
-        color: 'green-text-gradient',
-      },
-      {
-        name: 'JavaScript',
-        color: 'pink-text-gradient',
-      },
-    ],
-    image: exchange,
-    source_code_link: 'https://github.com/yasin1122/exchange-rate',
-  },
+  // {
+  //   name: 'Exchange Rate Calculator',
+  //   description:
+  //     'Quickly calculate the exchange rate between any two currencies with this mobile friendly web app.',
+  //   tags: [
+  //     {
+  //       name: 'HTML',
+  //       color: 'blue-text-gradient',
+  //     },
+  //     {
+  //       name: 'CSS',
+  //       color: 'green-text-gradient',
+  //     },
+  //     {
+  //       name: 'JavaScript',
+  //       color: 'pink-text-gradient',
+  //     },
+  //   ],
+  //   image: exchange,
+  //   source_code_link: 'https://github.com/yasin1122/exchange-rate',
+  // },
 ]
 
 export { services, technologies, experiences, projects }
