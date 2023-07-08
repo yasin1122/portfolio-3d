@@ -31,7 +31,6 @@ import sushi from './sushi-site.png'
 import speech from './speech-text-reader.png'
 import twitter from './twitter-clone.png'
 import exchange from './exchange-rate-calculator.png'
-import dark from './dark-mode-clock.png'
 
 export {
   logo,
@@ -61,7 +60,6 @@ export {
   coc,
   budget,
   sushi,
-  dark,
   speech,
   twitter,
   exchange,
