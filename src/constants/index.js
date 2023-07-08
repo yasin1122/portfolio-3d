@@ -21,7 +21,6 @@ import {
   amazon,
   budget,
   sushi,
-  dark,
   speech,
   twitter,
   exchange,
@@ -255,27 +254,6 @@ const projects = [
     image: twitter,
     source_code_link: 'https://github.com/yasin1122/twitter-clone',
   },
-  // {
-  //   name: 'Dark Mode Clock',
-  //   description:
-  //     'Modern clock that displays the current time to demonstrate light and dark mode used in most modern sites.',
-  //   tags: [
-  //     {
-  //       name: 'HTML',
-  //       color: 'blue-text-gradient',
-  //     },
-  //     {
-  //       name: 'CSS',
-  //       color: 'green-text-gradient',
-  //     },
-  //     {
-  //       name: 'JavaScript',
-  //       color: 'pink-text-gradient',
-  //     },
-  //   ],
-  //   image: dark,
-  //   source_code_link: 'https://github.com/yasin1122/dark-mode-clock',
-  // },
   {
     name: 'Exchange Rate Calculator',
     description:
