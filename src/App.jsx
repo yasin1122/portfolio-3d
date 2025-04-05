@@ -8,7 +8,7 @@ import {
   Navbar,
   Tech,
   Works,
-  StarsCanvas,
+  StarsCanvas
 } from './components'
 
 const App = () => {

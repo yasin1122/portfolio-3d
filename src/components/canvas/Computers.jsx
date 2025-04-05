@@ -32,21 +32,28 @@ const Computers = ({ isMobile }) => {
   )
 }
 
-/**
- * domElement (optional) – HTMLElement whose pointer events will control
- * OrbitControls. When undefined, OrbitControls listens on the whole canvas.
- */
-const ComputersCanvas = ({ domElement }) => {
+const ComputersCanvas = () => {
   const [isMobile, setIsMobile] = useState(false)
 
   useEffect(() => {
+    // Add a listener for changes to the screen size
     const mediaQuery = window.matchMedia('(max-width: 500px)')
+
+    // Set the initial value of the `isMobile` state variable
     setIsMobile(mediaQuery.matches)
 
-    const handleMediaQueryChange = event => setIsMobile(event.matches)
+    // Define a callback function to handle changes to the media query
+    const handleMediaQueryChange = event => {
+      setIsMobile(event.matches)
+    }
+
+    // Add the callback function as a listener for changes to the media query
     mediaQuery.addEventListener('change', handleMediaQueryChange)
-    return () =>
+
+    // Remove the listener when the component is unmounted
+    return () => {
       mediaQuery.removeEventListener('change', handleMediaQueryChange)
+    }
   }, [])
 
   return (
@@ -61,7 +68,6 @@ const ComputersCanvas = ({ domElement }) => {
           enableZoom={false}
           maxPolarAngle={Math.PI / 2}
           minPolarAngle={Math.PI / 2}
-          domElement={domElement}
         />
         <Computers isMobile={isMobile} />
       </Suspense>
